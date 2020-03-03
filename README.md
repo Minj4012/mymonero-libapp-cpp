@@ -28,3 +28,4 @@ This repository holds the C++ source code for the MyMonero business logic.
 * Boost
 
 * OpenSSL
+.github/workflows/greetings.yml
